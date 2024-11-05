@@ -70,3 +70,39 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+/* .react-resizable-handle.react-resizable-handle-se {
+ opacity: 0;
+}
+.react-resizable-handle.react-resizable-handle-se::after {
+content: "";
+opacity: 1;
+position: absolute;
+right: 5px!important;
+bottom: 5px!important;
+width: 2px!important;
+height: 2px!important;
+border-right: 2px solid white;
+border-bottom: 2px solid white;  
+} */
+
+/* .react-resizable-handle {
+  background-image: none;
+  padding: 0;
+}
+.react-grid-item > .react-resizable-handle.react-resizable-handle-n,
+.react-grid-item > .react-resizable-handle.react-resizable-handle-e,
+.react-grid-item > .react-resizable-handle.react-resizable-handle-s,
+.react-grid-item > .react-resizable-handle.react-resizable-handle-w,
+.react-grid-item > .react-resizable-handle.react-resizable-handle-ne,
+.react-grid-item > .react-resizable-handle.react-resizable-handle-nw,
+.react-grid-item > .react-resizable-handle.react-resizable-handle-se,
+.react-grid-item > .react-resizable-handle.react-resizable-handle-sw
+{
+  transform: none;
+  margin: 0;
+}
+.react-grid-item > .react-resizable-handle::after {
+  border: none;
+  content: none;
+} */
